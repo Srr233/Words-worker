@@ -1,0 +1,22 @@
+{
+  "name": "words-worker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Srr233/Words-worker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Srr233/Words-worker/issues"
+  },
+  "homepage": "https://github.com/Srr233/Words-worker#readme",
+  "dependencies": {
+    "express": "^4.18.0"
+  }
+}
