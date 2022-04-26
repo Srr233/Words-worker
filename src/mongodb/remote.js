@@ -1,0 +1,1 @@
+export default "mongodb+srv://Sulti_loves_asses:Sulti_loves_asses@words.qssqe.mongodb.net/words?retryWrites=true&w=majority"
